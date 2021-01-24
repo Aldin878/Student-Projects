@@ -1,32 +1,3 @@
-/*
-Write a main program that uses the linked list class. The program will maintain a list of student records.
-Your program should build the linked list by inserting each student from the studentFile.txt and then display a menu.  The user should have options to search for a student in the list, remove a student from the list,   count the number of students in the list, and  display the list in forward order.   (The text file is ONLY used for the initial build – you do NOT need to write adds or changes back to the file.)
-Whenever a student is added, removed or searched for (and found) the student object should be displayed.
-
-*/
-
-//*******************************************************************************************************
-//
-//      File:               LinkedList.h
-//
-//      Student:            Aldin Topalbegovic
-//
-//      Assignment:         Program  3
-//
-//      Course Name:        Data Structures I 
-//
-//      Course Number:      COSC 3050 - 02
-//
-//      Due:                Sept 19, 2018
-//
-//
-//      This is a linked list header file. It uses node.h to create and link nodes.
-//
-//      Other files included: Node.h, LLDriver.cpp
-//                            	
-//
-//*******************************************************************************************************
-
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
 #include "Node.h"
