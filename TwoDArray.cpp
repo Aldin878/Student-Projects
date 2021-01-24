@@ -1,6 +1,6 @@
 //		This program does allows a user to input data into a 2-D array. They can request a sum of all data,  
 //		the average value of all data, the highest number of all data, the sum of a row, the sum of a column,
-//    and the lowest value for a column
+//              and the lowest value for a column
 
 //*******************************************************************************************************
 
