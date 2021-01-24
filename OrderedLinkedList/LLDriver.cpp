@@ -1,6 +1,6 @@
 #include "LinkedList.h"
-template <typename t>
-void display(LinkedList<t> &);
+template <typename T>
+void display(LinkedList<T> &);
 
 //*******************************************************************************************************
 
@@ -14,8 +14,8 @@ int main()
 
 }
 
-template <typename t>
-void display(LinkedList<t> &ll)
+template <typename T>
+void display(LinkedList<T> &ll)
 {
 	int intRetrieve = 0;
 	bool boolRetrieve = 0;
