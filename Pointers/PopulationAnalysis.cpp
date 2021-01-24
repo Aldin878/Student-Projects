@@ -1,23 +1,3 @@
-//*******************************************************************************************************
-//
-//		File:				PopulationAnalysis.cpp
-//		
-//		Student:			Aldin Topalbegovic
-//
-//		Assignment:	 		Program  #3		
-//
-//		Course Name:		Programming II 
-//
-//		Course Number:		COSC 1560 - 02
-//
-//		Due:				Sept 22, 2017
-//
-//
-//		This program allows a user to input data for any population. The program will display the data forwards, backwards,
-//	    the average, and the max, all while using pointers. 
-//		
-//*******************************************************************************************************
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
