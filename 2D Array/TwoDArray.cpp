@@ -1,15 +1,3 @@
-/*
-	Requirements:
-•	The array will be filled by user input, any input values outside the range of 0-500 must be required to re-enter. For test purposes, please manually enter the numbers provided above
-•	And then display the all values (in a 2-D table format, with rows and columns, format the display use setw function), 
-•	The program should also display the average value of all data (the average should be a double type).  
-•	The program should display the highest for all data 
-•	The program should also display the sum for a certain temperature (row sum)
-•	The program should also display the sum for a certain day (column sum)
-•	The program should display the lowest value for a certain day (column lowest) 
-*/
-//*******************************************************************************************************
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
