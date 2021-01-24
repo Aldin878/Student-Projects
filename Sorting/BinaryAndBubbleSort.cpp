@@ -9,10 +9,14 @@ Write a program that lets the user enter a charge account number. The program sh
 
 The list of numbers above should be initialized in a single-dimensional array. There are two parts of this program: 
 
-1.	A simple linear search should be used to locate the number entered by the user. If the user enters a number that is in the array, the program should display a message saying that the number valid. If the user enters a number that is not in the array, the program should display a message indicating that the number is invalid. 	
-2.	Use binary search in the second part. Use bubble sort to sort the array first, and then ask user to enter an account number. If the user enters a number that is in the array, the program should display a message saying that the number valid. If the user enters a number that is not in the array, the program should display a message indicating that the number is invalid.
+1.	A simple linear search should be used to locate the number entered by the user. If the user enters a number that is in the array, 
+	the program should display a message saying that the number valid. If the user enters a number that is not in the array,
+	the program should display a message indicating that the number is invalid. 	
+	
+2.	Use binary search in the second part. Use bubble sort to sort the array first, and then ask user to enter an account number. 
+	If the user enters a number that is in the array, the program should display a message saying that the number valid. 
+	If the user enters a number that is not in the array, the program should display a message indicating that the number is invalid.
 */
-
 //*******************************************************************************************************
 
 #include <iostream>
